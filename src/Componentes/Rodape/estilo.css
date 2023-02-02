@@ -1,0 +1,20 @@
+footer {
+    background-color: #030303;
+    text-align: center;
+    color: #ADADAD;
+    padding: 20px;
+    display: flex;
+    padding-left: 500px;
+  }
+
+  @media (max-width: 769px){
+        footer{
+         padding-left: 200px;
+        }
+  }
+
+  @media (max-width: 550px){
+      footer{
+            padding-left: 80px;
+           }
+  }
